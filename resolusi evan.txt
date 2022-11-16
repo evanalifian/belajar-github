@@ -1,0 +1,3 @@
+Resolusi akhir tahun 2022
+- Membuat banyak website
+- Bisa membuat website dengan fitur CRUD
