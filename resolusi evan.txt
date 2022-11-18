@@ -2,3 +2,4 @@ Resolusi akhir tahun 2022
 - Membuat banyak website
 - Bisa membuat website dengan fitur CRUD
 - Bisa menyelesaikan tugas - tugas dengan cepat
+- membuat web portfolio yang menarik
